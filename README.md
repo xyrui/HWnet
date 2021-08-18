@@ -1,5 +1,7 @@
 # Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)
-<center>Xiangyu Rui<sup>1</sup>, Xiangyong Cao<sup>1</sup>, Qi Xie<sup>1</sup>, Zongsheng Yue<sup>1</sup>, Qian Zhao<sup>1</sup>, Deyu Meng<sup>1,2</sup></center>
+<p align="center">
+    Xiangyu Rui<sup>1</sup>, Xiangyong Cao<sup>1</sup>, Qi Xie<sup>1</sup>, Zongsheng Yue<sup>1</sup>, Qian Zhao<sup>1</sup>, Deyu Meng<sup>1,2</sup>
+</p>
 
 <sup>1</sup>Xi’an Jiaotong University; <sup>2</sup>Pazhou Lab, Guangzhou
 
