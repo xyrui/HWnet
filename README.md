@@ -1,5 +1,7 @@
-# HWnet
-Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)
+# HWnet (CVPR2021)
+Main paper: [Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise](https://openaccess.thecvf.com/content/CVPR2021/papers/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.pdf) 
+
+Supplement material: [supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Rui_Learning_an_Explicit_CVPR_2021_supplemental.pdf)
 
 ## Prepare data
 
