@@ -3,7 +3,7 @@
 
 <sup>1</sup>Xi’an Jiaotong University; <sup>2</sup>Pazhou Lab, Guangzhou
 
-<h1 style="text-align:center">a</h1>
+<p style="text-align: center>中间居中</p>
 
 [Main paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.pdf)
 
