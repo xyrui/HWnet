@@ -3,7 +3,9 @@
     Xiangyu Rui<sup>1</sup>, Xiangyong Cao<sup>1</sup>, Qi Xie<sup>1</sup>, Zongsheng Yue<sup>1</sup>, Qian Zhao<sup>1</sup>, Deyu Meng<sup>1,2</sup>
 </p>
 
+<p align="center">
 <sup>1</sup>Xi’an Jiaotong University; <sup>2</sup>Pazhou Lab, Guangzhou
+</p>
 
 [Main paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.pdf)
 
