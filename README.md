@@ -14,7 +14,7 @@ Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)
 Please refer to "data" file for creating your own test data. The noise generation methods in "data/utils" file are in consistent with those in "lib.py".  
 
 ## Training and testing
-Plean refer to "train_hwnet.py" and "test.py" for training and testing HWLRMF. More test codes for NAILRMA, NGmeet, LLRT and their weighted version will be uploaded soon.
+Plean refer to "train_hwnet.py" and "test.py" for training and testing HWLRMF. More test codes for NAILRMA, NGmeet, LLRT and their weighted versions will be uploaded soon.
 
 ## Citation
 If you are interested in our work, please cite  
