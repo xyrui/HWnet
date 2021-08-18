@@ -7,8 +7,15 @@
 <sup>1</sup>Xi’an Jiaotong University; <sup>2</sup>Pazhou Lab, Guangzhou
 </p>
 
-[Main paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.pdf), [Supplement material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Rui_Learning_an_Explicit_CVPR_2021_supplemental.pdf)
+[Main paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Rui_Learning_an_Explicit_Weighting_Scheme_for_Adapting_Complex_HSI_Noise_CVPR_2021_paper.pdf)
 
+[Supplement material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Rui_Learning_an_Explicit_CVPR_2021_supplemental.pdf)
+
+## Basic requirements
+1. python >= 3.8
+
+2. pytorch = 1.9
+ 
 ## Prepare data
 
 ### Training dataset
