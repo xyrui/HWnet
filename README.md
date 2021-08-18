@@ -12,14 +12,22 @@ Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)
 Please refer to "data" file for creating your own test data. The noise generation methods in "data/utils" file are in consistent with those in "lib.py". 
 
 ## Citation
-If you are interested in our work, please cite
-(```)
-@InProceedings{Rui_2021_CVPR,
+If you are interested in our work, please cite  
+
+```
+@InProceedings{Rui_2021_CVPR, 
+
     author    = {Rui, Xiangyu and Cao, Xiangyong and Xie, Qi and Yue, Zongsheng and Zhao, Qian and Meng, Deyu},
+    
     title     = {Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise},
+    
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    
     month     = {June},
+    
     year      = {2021},
+    
     pages     = {6739-6748}
+    
 }
-(```)
+```
