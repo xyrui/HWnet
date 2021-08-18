@@ -9,4 +9,4 @@ Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise (CVPR2021)
 3. Save the training dataset in path "dataroot"(your own data path).
 
 ## Testing DATASET
-Please refer to "data" file for create your own test data. The noise generation methods in "data/utils" file are in consistent with those in "lib.py". 
+Please refer to "data" file for creating your own test data. The noise generation methods in "data/utils" file are in consistent with those in "lib.py". 
