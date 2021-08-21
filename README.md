@@ -31,6 +31,11 @@ Please refer to "data/gene_test_data.m" file for creating your own test data usi
 ## Training and testing
 Plean refer to "train_hwnet.py" and "test.py" for training and testing HWLRMF. More test codes for NAILRMA, NGmeet, LLRT and their weighted versions will be uploaded soon.
 
+## Other information
+
+### SVD grad
+For pytorch>=1.9, torch.linalg.svd could also be directly used. However, sometimes the grads could be numerically unstable.
+
 ## Citation
 If you are interested in our work, please cite  
 
