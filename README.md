@@ -21,7 +21,7 @@
 ### Training dataset
 1. Please download CAVE DATAset from https://www.cs.columbia.edu/CAVE/databases/multispectral/ for training. The image size is of 512\*512\*31.
 
-2. Crop your own training dataset. I randomly select 20 images for training and crop about 10000 patches of size 96\*96\*20. (This step is implemented by MATLAB code and I did not add the code here. You could freely choose your favourite way.) 
+2. Crop training dataset. I randomly select 20 images for training and crop about 10000 patches of size 96\*96\*20. The corresponding MATLAB codes are in "data/gene_patches.m". (You could also freely choose your favourite way to crop patches.) 
 
 3. Save the training dataset in path "dataroot"(your own data path).
 
