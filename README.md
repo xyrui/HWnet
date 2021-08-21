@@ -11,32 +11,32 @@
 
 [Supplement material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Rui_Learning_an_Explicit_CVPR_2021_supplemental.pdf)
 
-## Basic requirements
+## 1. Basic requirements
 1. python >= 3.8
 
 2. pytorch = 1.9 (lower version may also be applicable.)
  
-## Prepare data
+## 2. Prepare data
 
-### Training dataset
+### 2.1 Training dataset
 1. Please download CAVE DATAset from https://www.cs.columbia.edu/CAVE/databases/multispectral/ for training. The image size is of 512\*512\*31.
 
 2. Crop training dataset. I randomly select 20 images for training and crop about 10000 patches of size 96\*96\*20. The corresponding MATLAB codes are in "data/gene_patches.m". (You could also freely choose your favourite way to crop patches.) 
 
 3. Save the training dataset in path "dataroot"(your own data path).
 
-### Testing dataset
+### 2.2 Testing dataset
 Please refer to "data/gene_test_data.m" file for creating your own test data using MATLAB. The noise generation methods in "data/utils" file are in consistent with those in "lib.py".  
 
-## Training and testing
+## 3. Training and testing
 Plean refer to "train_hwnet.py" and "test.py" for training and testing HWLRMF. More test codes for NAILRMA, NGmeet, LLRT and their weighted versions will be uploaded soon.
 
-## Other information
+## 4. Other information
 
-### SVD grad
+### 4.1 SVD grad
 For pytorch>=1.9, torch.linalg.svd could also be directly used. However, sometimes the grads could be numerically unstable.
 
-## Citation
+## 5. Citation
 If you are interested in our work, please cite  
 
 ```
@@ -49,5 +49,5 @@ If you are interested in our work, please cite
     pages     = {6739-6748}    
 }
 ```
-## Contacts
+## 6. Contacts
 If you have any questions, please contract me by <xyrui@outlook.com> or <rxy14789653@stu.xjtu.edu.cn>.
