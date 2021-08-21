@@ -26,7 +26,7 @@
 3. Save the training dataset in path "dataroot"(your own data path).
 
 ### Testing dataset
-Please refer to "data" file for creating your own test data using MATLAB. The noise generation methods in "data/utils" file are in consistent with those in "lib.py".  
+Please refer to "data/gene_test_data.m" file for creating your own test data using MATLAB. The noise generation methods in "data/utils" file are in consistent with those in "lib.py".  
 
 ## Training and testing
 Plean refer to "train_hwnet.py" and "test.py" for training and testing HWLRMF. More test codes for NAILRMA, NGmeet, LLRT and their weighted versions will be uploaded soon.
