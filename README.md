@@ -14,7 +14,7 @@
 ## Basic requirements
 1. python >= 3.8
 
-2. pytorch = 1.9
+2. pytorch = 1.9 (lower version may also be applicable.)
  
 ## Prepare data
 
